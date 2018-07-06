@@ -12,3 +12,13 @@ to the Repo landing page. Click on it and inspect our new homepage of our static
 the 'local' image files
 7. Move onto the wiki page and learn about creating wikis from the material there (with
 more live-coding).   
+
+## Pre-requisites & equipment
+- We will use the web interface for these lessons so knowledge of Command-line git is not 
+required (but may still be advantageous).
+- Learners should register at Github to get a username and have (or have access to) a 
+computer with a web browser.
+- An Etherpad (an electronic class whiteboard) may be useful for storing questions to be answered
+at a later more convenient point. You can create one (for free) here: https://etherpad.net
+- Projector attached to Instructors laptop, a white-board & pens and red/green post-its (for
+Learners to request aid or indicate completion of exercises) will also be useful.
