@@ -10,8 +10,7 @@ to the Repo landing page. Click on it and inspect our new homepage of our static
 5. Return to settings and explore the default Jekyll page themes
 6. Add more markdown pages and link to them (including some external links and linking to 
 the 'local' image files
-7. Move onto the wiki page and learn about creating wikis from the material there (with
-more live-coding).   
+7. Move onto the [wiki page](https://github.com/mfernandes61/github_web_course/wiki) and learn about creating wikis from the material there (with more live-coding).   
 
 ## Pre-requisites & equipment
 - We will use the web interface for these lessons so knowledge of Command-line git is not 
