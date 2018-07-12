@@ -16,7 +16,6 @@ Quoting blocks of text.
 Tables.   
 Web-links             e.g. www.google.com.   
 Inserting graphics    e.g. coffee-break & biscuits.   
-or by Emojis          e.g. :<code>:  :coffee: or :cake: :heavy_check_mark:      
 Tick-boxes            i.e. Have we done this?    
 HTML tricks           e.g. Underlining text     
                       e.g. Collapsing text.    
