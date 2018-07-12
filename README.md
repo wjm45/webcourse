@@ -1,7 +1,7 @@
 # github_web_course
 ## Material for a course on MarkDown, GitHub pages &amp; GitHub wikis
 
-1. Learners will first learn basic Markdown by "live-coding" a basic page
+1. Learners will first learn basic Markdown by "live-coding" a basic page in steps with each stage exploring new markdown elements.  
 2. Then we take the lessons learned to create an "index.md" page to be the sites Homepage
 3. Create a gh-pages branch for our web-site along with an images folder with some
 example graphics
