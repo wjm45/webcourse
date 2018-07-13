@@ -1,6 +1,6 @@
 #### What is Markdown and how do we use it to create web-pages?
 Held at the Fawkes Training Room on 5th November from 13:00 to 17:00  
-
+<a name="TheTop"></a>
 ### Trainers
 Anne.    
 Mark.   
@@ -31,7 +31,18 @@ Inserting graphics    e.g. coffee-break & biscuits.
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
-HTML tricks           e.g. Underlining text     
-                      e.g. Collapsing text.    
+<b>HTML tricks</b>           
+<u>Underlining text</u>     
 
-# Useful links
+Collapsing text(This may not work on old browsers).    
+<details>
+    <summary>What is the answer?</summary>
+    <p>Obviously it is 42</p>
+</details>
+
+# Useful links.  
+Anchors within our document. 
+
+[Go to the top](#TheTop).  
+
+[Github documentation on Markdown](https://guides.github.com/features/mastering-markdown/).  
