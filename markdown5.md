@@ -31,8 +31,9 @@ Inserting graphics    e.g. coffee-break & biscuits.
 Tick-boxes.  
 - [ ] Have we done this?
 - [x] Have we done that?   
-<b>HTML tricks</b>           
-<u>Underlining text</u>     
+<b>HTML tricks</b>    
+
+<ins> Underlining text </ins>     
 
 Collapsing text(This may not work on old browsers).    
 <details>
