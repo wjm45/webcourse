@@ -9,7 +9,7 @@ Mark.
 Headings   
 Bullet point lists (& nesting). 
 Ordered lists (& nesting)   
-Bold text.   
+* Bold text.   
 Italics.   
 Combining attributes  e.g. Bold and italics.   
 Quoting blocks of text.   
